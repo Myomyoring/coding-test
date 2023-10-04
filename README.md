@@ -6,13 +6,12 @@
 
 ### 백준에서의 입력, 출력
 
-- 입력 : fs 모듈 또는 readline으로 받아야 한다.
-  [예제 코드 (백준 1000번 문제 )](https://help.acmicpc.net/language/info){:target="\_blank"}
+- 입력 : fs 모듈 또는 readline으로 받아야 한다. <a href="https://help.acmicpc.net/language/info" target="_blank">예제 코드 (백준 1000번 문제 )</a>
 - 출력 : <code>console.log()</code>
 
 ### fs 모듈로 입력값 받기
 
-[참고사이트](https://velog.io/@imysh578/%EB%B0%B1%EC%A4%80-NodeJsJavascript-%EC%9E%85%EB%A0%A5%EA%B0%92-%EB%B0%9B%EB%8A%94-%EB%B0%A9%EB%B2%95){:target="\_blank"}
+<a href="https://velog.io/@imysh578/%EB%B0%B1%EC%A4%80-NodeJsJavascript-%EC%9E%85%EB%A0%A5%EA%B0%92-%EB%B0%9B%EB%8A%94-%EB%B0%A9%EB%B2%95" target="_blank">참고사이트</a>
 
 1. 입력값이 한 개일 때
 
