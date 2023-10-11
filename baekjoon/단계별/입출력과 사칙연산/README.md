@@ -8,6 +8,6 @@
 8. <a href="https://www.acmicpc.net/problem/18108" target="_blank">18108 - 1998년생인 내가 태국에서는 2541년생?!</a>
 9. <a href="https://www.acmicpc.net/problem/10430" target="_blank">10430 - 나머지</a>
 10. <a href="https://www.acmicpc.net/problem/2588" target="_blank">2588 - 곱셈</a>
-11. <a href="" target="_blank"></a>
-12. <a href="" target="_blank"></a>
-13. <a href="" target="_blank"></a>
+11. <a href="https://www.acmicpc.net/problem/11382" target="_blank">11382 - 꼬마 정민</a>
+12. <a href="https://www.acmicpc.net/problem/10171" target="_blank">10171 - 고양이</a>
+13. <a href="https://www.acmicpc.net/problem/10172" target="_blank">10172 - 개</a>
