@@ -67,3 +67,20 @@ const inputArr = input.trim().split(" ");
 const fs = require("fs");
 const [n, input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 ```
+
+6. 입력값이 첫 번째 줄에는 입력 값의 길이(n), n개의 줄에 걸쳐서 한 줄에 여러개의 입력값이 주어질 때
+
+<mark>ex)5<br/>
+101 100<br/>
+12 1<br/>
+13 3<br/>
+11 2 2<br/>
+1 3 3<br/>
+</mark>
+
+```javascript
+const fs = require("fs");
+const input = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
+const n = input[0];
+const line1 = input[1].split(" ");
+```
