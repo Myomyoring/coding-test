@@ -9,5 +9,5 @@
 8. <a href="https://www.acmicpc.net/problem/11022" target="_blank">11022 - A+B - 8</a>
 9. <a href="https://www.acmicpc.net/problem/2438" target="_blank">2438 - 별 찍기 - 1</a>
 10. <a href="https://www.acmicpc.net/problem/2439" target="_blank">2439 - 별 찍기 - 2</a>
-11. <a href="" target="_blank">10952 - A+B - 5</a>
-12. <a href="" target="_blank">10951 - A+B - 4</a>
+11. <a href="https://www.acmicpc.net/problem/10952" target="_blank">10952 - A+B - 5</a>
+12. <a href="https://www.acmicpc.net/problem/10951" target="_blank">10951 - A+B - 4</a>
