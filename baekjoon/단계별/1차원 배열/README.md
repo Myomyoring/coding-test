@@ -6,5 +6,5 @@
 6. <a href="https://www.acmicpc.net/problem/10813" target="_blank">10813 - 공 바꾸기</a>
 7. <a href="https://www.acmicpc.net/problem/5597" target="_blank">5597 - 과제 안 내신 분..?</a> ⚠️
 8. <a href="https://www.acmicpc.net/problem/3052" target="_blank">3052 - 나머지</a>
-9. <a href="" target="_blank">10811 - 바구니 뒤집기</a>
-10. <a href="" target="_blank">1546 - 평균</a>
+9. <a href="https://www.acmicpc.net/problem/10811" target="_blank">10811 - 바구니 뒤집기</a>
+10. <a href="https://www.acmicpc.net/problem/1546" target="_blank">1546 - 평균</a>
