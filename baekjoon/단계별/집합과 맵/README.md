@@ -2,8 +2,8 @@
 
 1. <a href="https://www.acmicpc.net/problem/10815" target="_blank">10815 - 숫자 카드</a>
 2. <a href="https://www.acmicpc.net/problem/14425" target="_blank">14425 - 문자열 집합</a>
-3. <a href="" target="_blank">7785 - 회사에 있는 사람</a>
-4. <a href="" target="_blank">1620 - 나는야 포켓몬 마스터 이다솜</a>
+3. <a href="https://www.acmicpc.net/problem/7785" target="_blank">7785 - 회사에 있는 사람</a>
+4. <a href="https://www.acmicpc.net/problem/1620" target="_blank">1620 - 나는야 포켓몬 마스터 이다솜</a>
 5. <a href="" target="_blank">10816 - 숫자 카드 2</a>
 6. <a href="" target="_blank">1764 - 듣보잡</a>
 7. <a href="" target="_blank">1269 - 대칭 차집합</a>
