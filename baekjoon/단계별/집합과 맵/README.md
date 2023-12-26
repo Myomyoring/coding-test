@@ -7,5 +7,5 @@ Set / Map의 자료구조, 시간복잡도 문제
 4. <a href="https://www.acmicpc.net/problem/1620" target="_blank">1620 - 나는야 포켓몬 마스터 이다솜</a>
 5. <a href="https://www.acmicpc.net/problem/10816" target="_blank">10816 - 숫자 카드 2</a>
 6. <a href="https://www.acmicpc.net/problem/1764" target="_blank">1764 - 듣보잡</a>
-7. <a href="" target="_blank">1269 - 대칭 차집합</a>
-8. <a href="" target="_blank">11478 - 서로 다른 부분 문자열의 개수</a>
+7. <a href="https://www.acmicpc.net/problem/1269" target="_blank">1269 - 대칭 차집합</a>
+8. <a href="https://www.acmicpc.net/problem/11478" target="_blank">11478 - 서로 다른 부분 문자열의 개수</a> ⚠️
