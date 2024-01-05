@@ -12,38 +12,38 @@
 10. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120811" target="_blank">중앙값 구하기</a>
 11. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120812" target="_blank">최빈값 구하기</a>
 12. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120813" target="_blank">짝수는 싫어요</a>
-13. <a href="" target="_blank"></a>
-14. <a href="" target="_blank"></a>
-15. <a href="" target="_blank"></a>
-16. <a href="" target="_blank"></a>
-17. <a href="" target="_blank"></a>
-18. <a href="" target="_blank"></a>
-19. <a href="" target="_blank"></a>
-20. <a href="" target="_blank"></a>
-21. <a href="" target="_blank"></a>
-22. <a href="" target="_blank"></a>
-23. <a href="" target="_blank"></a>
-24. <a href="" target="_blank"></a>
-25. <a href="" target="_blank"></a>
-26. <a href="" target="_blank"></a>
-27. <a href="" target="_blank"></a>
-28. <a href="" target="_blank"></a>
-29. <a href="" target="_blank"></a>
-30. <a href="" target="_blank"></a>
-31. <a href="" target="_blank"></a>
-32. <a href="" target="_blank"></a>
-33. <a href="" target="_blank"></a>
-34. <a href="" target="_blank"></a>
-35. <a href="" target="_blank"></a>
-36. <a href="" target="_blank"></a>
-37. <a href="" target="_blank"></a>
-38. <a href="" target="_blank"></a>
-39. <a href="" target="_blank"></a>
-40. <a href="" target="_blank"></a>
-41. <a href="" target="_blank"></a>
-42. <a href="" target="_blank"></a>
-43. <a href="" target="_blank"></a>
-44. <a href="" target="_blank"></a>
+13. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120814" target="_blank">피자 나눠 먹기 (1)</a>
+14. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120815" target="_blank">피자 나눠 먹기 (2)</a>
+15. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120816" target="_blank">피자 나눠 먹기 (3)</a>
+16. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120817" target="_blank">배열의 평균값</a>
+17. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120818" target="_blank">옷가게 할인 받기</a>
+18. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120819" target="_blank">아이스 아메리카노</a>
+19. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120820" target="_blank">나이 출력</a>
+20. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120821" target="_blank">배열 뒤집기</a>
+21. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120822" target="_blank">문자열 뒤집기</a>
+22. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120823" target="_blank">직각삼각형 출력하기</a>
+23. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120824" target="_blank">짝수 홀수 개수</a>
+24. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120825" target="_blank">문자 반복 출력하기</a>
+25. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120826" target="_blank">특정 문자 제거하기</a>
+26. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120829" target="_blank">각도기</a>
+27. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120830" target="_blank">양꼬치</a>
+28. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120831" target="_blank">짝수의 합</a>
+29. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120833" target="_blank">배열 자르기</a>
+30. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120834" target="_blank">외계행성의 나이</a>
+31. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120835" target="_blank">진료순서 정하기</a>
+32. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120836" target="_blank">순서쌍의 개수</a>
+33. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120837" target="_blank">개미 군단</a>
+34. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120838" target="_blank">모스부호 (1)</a>
+35. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120839" target="_blank">가위 바위 보</a>
+36. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120840" target="_blank">구슬을 나누는 경우의 수</a>
+37. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120841" target="_blank">점의 위치 구하기</a>
+38. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120842" target="_blank">2차원으로 만들기</a>
+39. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120843" target="_blank">공 던지기</a>
+40. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120844" target="_blank">배열 회전시키기</a>
+41. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120845" target="_blank">주사위의 개수</a>
+42. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120846" target="_blank">합성수 찾기</a>
+43. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120847" target="_blank">최댓값 만들기(1)</a>
+44. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120848" target="_blank">팩토리얼</a>
 45. <a href="" target="_blank"></a>
 46. <a href="" target="_blank"></a>
 47. <a href="" target="_blank"></a>
