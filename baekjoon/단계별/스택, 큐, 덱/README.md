@@ -1,7 +1,7 @@
 1. <a href="https://www.acmicpc.net/problem/28278" target="_blank">28278 - 스택 2</a>
 2. <a href="https://www.acmicpc.net/problem/10773" target="_blank">10773 - 제로</a>
 3. <a href="https://www.acmicpc.net/problem/9012" target="_blank">9012 - 괄호</a> ⚠️
-4. <a href="" target="_blank">4949 - 균형잡힌 세상</a>
+4. <a href="https://www.acmicpc.net/problem/4949" target="_blank">4949 - 균형잡힌 세상</a> ⚠️
 5. <a href="" target="_blank">12789 - 도키도키 간식드리미</a>
 6. <a href="" target="_blank">18258 - 큐 2</a>
 7. <a href="" target="_blank">2164 - 카드 2</a>
