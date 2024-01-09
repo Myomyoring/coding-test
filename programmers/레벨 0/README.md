@@ -44,14 +44,14 @@
 42. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120846" target="_blank">합성수 찾기</a>
 43. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120847" target="_blank">최댓값 만들기(1)</a>
 44. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120848" target="_blank">팩토리얼</a>
-45. <a href="" target="_blank"></a>
-46. <a href="" target="_blank"></a>
-47. <a href="" target="_blank"></a>
-48. <a href="" target="_blank"></a>
-49. <a href="" target="_blank"></a>
-50. <a href="" target="_blank"></a>
-51. <a href="" target="_blank"></a>
-52. <a href="" target="_blank"></a>
+45. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120849" target="_blank">모음 제거</a>
+46. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120850" target="_blank">문자열 정렬하기 (1)</a>
+47. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120851" target="_blank">숨어있는 숫자의 덧셈 (1)</a>
+48. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120852" target="_blank">소인수분해</a>
+49. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120853" target="_blank">컨트롤 제트</a>
+50. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120854" target="_blank">배열 원소의 길이</a>
+51. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120888" target="_blank">중복된 문자 제거</a>
+52. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120889" target="_blank">삼각형의 완성조건 (1)</a>
 53. <a href="" target="_blank"></a>
 54. <a href="" target="_blank"></a>
 55. <a href="" target="_blank"></a>
