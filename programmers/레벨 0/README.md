@@ -52,18 +52,18 @@
 50. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120854" target="_blank">배열 원소의 길이</a>
 51. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120888" target="_blank">중복된 문자 제거</a>
 52. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120889" target="_blank">삼각형의 완성조건 (1)</a>
-53. <a href="" target="_blank"></a>
-54. <a href="" target="_blank"></a>
-55. <a href="" target="_blank"></a>
-56. <a href="" target="_blank"></a>
-57. <a href="" target="_blank"></a>
-58. <a href="" target="_blank"></a>
-59. <a href="" target="_blank"></a>
-60. <a href="" target="_blank"></a>
-61. <a href="" target="_blank"></a>
-62. <a href="" target="_blank"></a>
-63. <a href="" target="_blank"></a>
-64. <a href="" target="_blank"></a>
+53. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120890" target="_blank">가까운 수</a>
+54. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120891" target="_blank">369게임</a>
+55. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120892" target="_blank">암호 해독</a>
+56. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120893" target="_blank">대문자와 소문자</a>
+57. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120894" target="_blank">영어가 싫어요</a>
+58. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120895" target="_blank">인덱스 바꾸기</a>
+59. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120896" target="_blank">한 번만 등장한 문자</a>
+60. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120897" target="_blank">약수 구하기</a>
+61. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120898" target="_blank">편지</a>
+62. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120899" target="_blank">가장 큰 수 찾기</a>
+63. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120902" target="_blank">문자열 계산하기</a>
+64. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120903" target="_blank">배열의 유사도</a>
 65. <a href="" target="_blank"></a>
 66. <a href="" target="_blank"></a>
 67. <a href="" target="_blank"></a>
