@@ -64,14 +64,14 @@
 62. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120899" target="_blank">가장 큰 수 찾기</a>
 63. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120902" target="_blank">문자열 계산하기</a>
 64. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120903" target="_blank">배열의 유사도</a>
-65. <a href="" target="_blank"></a>
-66. <a href="" target="_blank"></a>
-67. <a href="" target="_blank"></a>
-68. <a href="" target="_blank"></a>
-69. <a href="" target="_blank"></a>
-70. <a href="" target="_blank"></a>
-71. <a href="" target="_blank"></a>
-72. <a href="" target="_blank"></a>
+65. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120904" target="_blank">숫자 찾기</a>
+66. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120905" target="_blank">n의 배수 고르기</a>
+67. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120906" target="_blank">자릿수 더하기</a>
+68. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120907" target="_blank">OX퀴즈</a>
+69. <a href="" target="_blank">문자열안에 문자열</a>
+70. <a href="" target="_blank">제곱수 판별하기</a>
+71. <a href="" target="_blank">세균 증식</a>
+72. <a href="" target="_blank">문자열 정렬하기 (2)</a>
 73. <a href="" target="_blank"></a>
 74. <a href="" target="_blank"></a>
 75. <a href="" target="_blank"></a>
