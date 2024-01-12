@@ -68,18 +68,18 @@
 66. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120905" target="_blank">n의 배수 고르기</a>
 67. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120906" target="_blank">자릿수 더하기</a>
 68. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120907" target="_blank">OX퀴즈</a>
-69. <a href="" target="_blank">문자열안에 문자열</a>
-70. <a href="" target="_blank">제곱수 판별하기</a>
-71. <a href="" target="_blank">세균 증식</a>
-72. <a href="" target="_blank">문자열 정렬하기 (2)</a>
-73. <a href="" target="_blank"></a>
-74. <a href="" target="_blank"></a>
-75. <a href="" target="_blank"></a>
-76. <a href="" target="_blank"></a>
-77. <a href="" target="_blank"></a>
-78. <a href="" target="_blank"></a>
-79. <a href="" target="_blank"></a>
-80. <a href="" target="_blank"></a>
+69. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120908" target="_blank">문자열안에 문자열</a>
+70. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120909" target="_blank">제곱수 판별하기</a>
+71. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120910" target="_blank">세균 증식</a>
+72. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120911" target="_blank">문자열 정렬하기 (2)</a>
+73. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120912" target="_blank">7의 개수</a>
+74. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120913" target="_blank">잘라서 배열로 저장하기</a>
+75. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120583" target="_blank">중복된 숫자 개수</a>
+76. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120585" target="_blank">머쓱이보다 키 큰 사람</a>
+77. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120860" target="_blank">직사각형 넓이 구하기</a>
+78. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120861" target="_blank">캐릭터의 좌표</a>
+79. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120862" target="_blank">최댓값 만들기 (2)</a>
+80. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120863" target="_blank">다항식 더하기</a>
 81. <a href="" target="_blank"></a>
 82. <a href="" target="_blank"></a>
 83. <a href="" target="_blank"></a>
