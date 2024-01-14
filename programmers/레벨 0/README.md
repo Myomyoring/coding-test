@@ -80,10 +80,10 @@
 78. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120861" target="_blank">캐릭터의 좌표</a>
 79. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120862" target="_blank">최댓값 만들기 (2)</a>
 80. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120863" target="_blank">다항식 더하기</a>
-81. <a href="" target="_blank"></a>
-82. <a href="" target="_blank"></a>
-83. <a href="" target="_blank"></a>
-84. <a href="" target="_blank"></a>
+81. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120864" target="_blank">숨어있는 숫자의 덧셈 (2)</a>
+82. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120866" target="_blank">안전지대</a>
+83. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120868" target="_blank">삼각형의 완성조건 (2)</a>
+84. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120869" target="_blank">외계어 사전</a>
 85. <a href="" target="_blank"></a>
 86. <a href="" target="_blank"></a>
 87. <a href="" target="_blank"></a>
