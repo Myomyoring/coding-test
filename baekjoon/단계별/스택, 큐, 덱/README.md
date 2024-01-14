@@ -6,7 +6,7 @@
 6. <a href="https://www.acmicpc.net/problem/18258" target="_blank">18258 - 큐 2</a> ⚠️
 7. <a href="https://www.acmicpc.net/problem/2164" target="_blank">2164 - 카드 2</a> ⚠️
 8. <a href="https://www.acmicpc.net/problem/11866" target="_blank">11866 - 요세푸스 문제 0</a> ⚠️
-9. <a href="" target="_blank">28279 - 덱 2</a>
+9. <a href="https://www.acmicpc.net/problem/28279" target="_blank">28279 - 덱 2</a> ⚠️
 10. <a href="" target="_blank">2346 - 풍선 터뜨리기</a>
 11. <a href="" target="_blank">24511 - queuestack</a>
 
