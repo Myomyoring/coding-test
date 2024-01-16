@@ -84,10 +84,10 @@
 82. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120866" target="_blank">안전지대</a>
 83. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120868" target="_blank">삼각형의 완성조건 (2)</a>
 84. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120869" target="_blank">외계어 사전</a>
-85. <a href="" target="_blank"></a>
-86. <a href="" target="_blank"></a>
-87. <a href="" target="_blank"></a>
-88. <a href="" target="_blank"></a>
+85. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120871" target="_blank">저주의 숫자 3</a>
+86. <a href="" target="_blank">평행</a>
+87. <a href="" target="_blank">겹치는 선분의 길이</a>
+88. <a href="" target="_blank">유한소수 판별하기</a>
 89. <a href="" target="_blank"></a>
 90. <a href="" target="_blank"></a>
 91. <a href="" target="_blank"></a>
