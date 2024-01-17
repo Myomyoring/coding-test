@@ -85,13 +85,13 @@
 83. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120868" target="_blank">삼각형의 완성조건 (2)</a>
 84. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120869" target="_blank">외계어 사전</a>
 85. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120871" target="_blank">저주의 숫자 3</a>
-86. <a href="" target="_blank">평행</a>
-87. <a href="" target="_blank">겹치는 선분의 길이</a>
-88. <a href="" target="_blank">유한소수 판별하기</a>
-89. <a href="" target="_blank"></a>
-90. <a href="" target="_blank"></a>
-91. <a href="" target="_blank"></a>
-92. <a href="" target="_blank"></a>
+86. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120875" target="_blank">평행</a>
+87. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120876" target="_blank">겹치는 선분의 길이</a>
+88. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120878" target="_blank">유한소수 판별하기</a>
+89. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120880" target="_blank">특이한 정렬</a>
+90. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120882" target="_blank">등수 매기기</a>
+91. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120956" target="_blank">옹알이 (1)</a>
+92. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120883" target="_blank">로그인 성공?</a>
 93. <a href="" target="_blank"></a>
 94. <a href="" target="_blank"></a>
 95. <a href="" target="_blank"></a>
