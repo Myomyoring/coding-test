@@ -92,10 +92,10 @@
 90. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120882" target="_blank">등수 매기기</a>
 91. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120956" target="_blank">옹알이 (1)</a>
 92. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120883" target="_blank">로그인 성공?</a>
-93. <a href="" target="_blank"></a>
-94. <a href="" target="_blank"></a>
-95. <a href="" target="_blank"></a>
-96. <a href="" target="_blank"></a>
+93. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120884" target="_blank">치킨 쿠폰</a>
+94. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120885" target="_blank">이진수 더하기</a>
+95. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120886" target="_blank">A로 B 만들기</a>
+96. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120887" target="_blank">k의 개수</a>
 97. <a href="" target="_blank"></a>
 98. <a href="" target="_blank"></a>
 99. <a href="" target="_blank"></a>
