@@ -106,3 +106,4 @@
 <br />
 
 ![입문 캘린더](success.png)
+![스킬 체크 레벨1](skill_level_1.JPG)
