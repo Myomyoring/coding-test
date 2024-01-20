@@ -6,10 +6,10 @@
 2. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944">평균 구하기</a>
 3. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12928">약수의 합</a>
 4. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12925">문자열을 정수로 바꾸기</a>
-5. <a href=""></a>
-6. <a href=""></a>
-7. <a href=""></a>
-8. <a href=""></a>
+5. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389">나머지가 1이 되는 수 찾기</a>
+6. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12931">자릿수 더하기</a>
+7. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12954">x만큼 간격이 있는 n개의 숫자</a>
+8. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12916">문자열 내 p와 y의 개수</a>
 9. <a href=""></a>
 10. <a href=""></a>
 11. <a href=""></a>
