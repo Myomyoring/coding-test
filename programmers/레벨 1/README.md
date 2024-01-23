@@ -10,10 +10,10 @@
 6. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12931">자릿수 더하기</a>
 7. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12954">x만큼 간격이 있는 n개의 숫자</a>
 8. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12916">문자열 내 p와 y의 개수</a>
-9. <a href=""></a>
-10. <a href=""></a>
-11. <a href=""></a>
-12. <a href=""></a>
+9. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12932">자연수 뒤집어 배열로 만들기</a>
+10. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934">정수 제곱근 판별</a>
+11. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933">정수 내림차순으로 배치하기</a>
+12. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947">하샤드 수</a>
 13. <a href=""></a>
 14. <a href=""></a>
 15. <a href=""></a>
