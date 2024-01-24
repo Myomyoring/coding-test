@@ -14,8 +14,8 @@
 10. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934">정수 제곱근 판별</a>
 11. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933">정수 내림차순으로 배치하기</a>
 12. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947">하샤드 수</a>
-13. <a href=""></a>
-14. <a href=""></a>
+13. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12912">두 정수 사이의 합</a>
+14. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">음양 더하기</a>
 15. <a href=""></a>
 16. <a href=""></a>
 17. <a href=""></a>
