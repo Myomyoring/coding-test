@@ -16,10 +16,10 @@
 12. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947">하샤드 수</a>
 13. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12912">두 정수 사이의 합</a>
 14. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">음양 더하기</a>
-15. <a href=""></a>
-16. <a href=""></a>
-17. <a href=""></a>
-18. <a href=""></a>
+15. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943">콜라츠 추측</a>
+16. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919">서울에서 김서방 찾기</a>
+17. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12910">나누어 떨어지는 숫자 배열</a>
+18. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051">없는 숫자 더하기</a>
 19. <a href=""></a>
 20. <a href=""></a>
 21. <a href=""></a>
