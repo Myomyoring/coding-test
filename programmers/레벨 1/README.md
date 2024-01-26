@@ -24,7 +24,7 @@
 20. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a>
 21. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">내적</a>
 22. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903">가운데 글자 가져오기</a>
-23. <a href=""></a>
+23. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">가장 많이 받은 선물</a>
 24. <a href=""></a>
 25. <a href=""></a>
 26. <a href=""></a>
