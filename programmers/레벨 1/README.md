@@ -20,10 +20,10 @@
 16. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919">서울에서 김서방 찾기</a>
 17. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12910">나누어 떨어지는 숫자 배열</a>
 18. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051">없는 숫자 더하기</a>
-19. <a href=""></a>
-20. <a href=""></a>
-21. <a href=""></a>
-22. <a href=""></a>
+19. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12948">핸드폰 번호 가리기</a>
+20. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a>
+21. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">내적</a>
+22. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903">가운데 글자 가져오기</a>
 23. <a href=""></a>
 24. <a href=""></a>
 25. <a href=""></a>
