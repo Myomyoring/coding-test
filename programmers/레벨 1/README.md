@@ -24,10 +24,10 @@
 20. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935">제일 작은 수 제거하기</a>
 21. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">내적</a>
 22. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903">가운데 글자 가져오기</a>
-23. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">가장 많이 받은 선물</a>
-24. <a href=""></a>
-25. <a href=""></a>
-26. <a href=""></a>
+23. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</a>
+24. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77884">약수의 개수와 덧셈</a>
+25. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a>
+26. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612">부족한 금액 계산하기</a>
 27. <a href=""></a>
 28. <a href=""></a>
 29. <a href=""></a>
@@ -81,4 +81,4 @@
 77. <a href=""></a>
 78. <a href=""></a>
 79. <a href=""></a>
-80. <a href=""></a>
+80. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">가장 많이 받은 선물</a>
