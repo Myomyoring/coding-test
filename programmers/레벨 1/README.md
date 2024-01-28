@@ -28,10 +28,10 @@
 24. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77884">약수의 개수와 덧셈</a>
 25. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a>
 26. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612">부족한 금액 계산하기</a>
-27. <a href=""></a>
-28. <a href=""></a>
-29. <a href=""></a>
-30. <a href=""></a>
+27. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12918">문자열 다루기 기본</a>
+28. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950">행렬의 덧셈</a>
+29. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969">직사각형 별찍기</a>
+30. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940">최대공약수와 최소공배수</a>
 31. <a href=""></a>
 32. <a href=""></a>
 33. <a href=""></a>
