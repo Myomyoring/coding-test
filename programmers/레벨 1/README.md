@@ -32,10 +32,10 @@
 28. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950">행렬의 덧셈</a>
 29. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969">직사각형 별찍기</a>
 30. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940">최대공약수와 최소공배수</a>
-31. <a href=""></a>
-32. <a href=""></a>
-33. <a href=""></a>
-34. <a href=""></a>
+31. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어</a>
+32. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935">3진법 뒤집기</a>
+33. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982">예산</a>
+34. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930">이상한 문자 만들기</a>
 35. <a href=""></a>
 36. <a href=""></a>
 37. <a href=""></a>
