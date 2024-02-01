@@ -36,10 +36,10 @@
 32. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935">3진법 뒤집기</a>
 33. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982">예산</a>
 34. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930">이상한 문자 만들기</a>
-35. <a href=""></a>
-36. <a href=""></a>
-37. <a href=""></a>
-38. <a href=""></a>
+35. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/147355">크기가 작은 부분 문자열</a>
+36. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131705">삼총사</a>
+37. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491">최소직사각형</a>
+38. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12926">시저 암호</a>
 39. <a href=""></a>
 40. <a href=""></a>
 41. <a href=""></a>
