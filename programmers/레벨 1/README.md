@@ -40,10 +40,10 @@
 36. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131705">삼총사</a>
 37. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491">최소직사각형</a>
 38. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12926">시저 암호</a>
-39. <a href=""></a>
-40. <a href=""></a>
-41. <a href=""></a>
-42. <a href=""></a>
+39. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/142086">가장 가까운 같은 글자</a>
+40. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>
+41. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134240">푸드 파이트 대회</a>
+42. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째수</a>
 43. <a href=""></a>
 44. <a href=""></a>
 45. <a href=""></a>
