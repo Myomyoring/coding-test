@@ -44,10 +44,10 @@
 40. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a>
 41. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134240">푸드 파이트 대회</a>
 42. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째수</a>
-43. <a href=""></a>
-44. <a href=""></a>
-45. <a href=""></a>
-46. <a href=""></a>
+43. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12915">문자열 내 마음대로 정렬하기</a>
+44. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a>
+45. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681">[1차] 비밀지도</a>
+46. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132267">콜라 문제</a>
 47. <a href=""></a>
 48. <a href=""></a>
 49. <a href=""></a>
