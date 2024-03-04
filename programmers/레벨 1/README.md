@@ -48,7 +48,7 @@
 44. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a>
 45. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681">[1차] 비밀지도</a>
 46. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132267">콜라 문제</a>
-47. <a href=""></a>
+47. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176963/solution_groups?language=javascript">추억 점수</a>
 48. <a href=""></a>
 49. <a href=""></a>
 50. <a href=""></a>
