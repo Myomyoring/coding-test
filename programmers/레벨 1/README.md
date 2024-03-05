@@ -50,7 +50,7 @@
 46. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132267">콜라 문제</a>
 47. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176963/solution_groups?language=javascript">추억 점수</a>
 48. <a href=""></a>
-49. <a href=""></a>
+49. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159994">카드 뭉치</a>
 50. <a href=""></a>
 51. <a href=""></a>
 52. <a href=""></a>
