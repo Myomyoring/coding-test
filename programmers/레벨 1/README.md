@@ -49,10 +49,10 @@
 45. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681">[1차] 비밀지도</a>
 46. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132267">콜라 문제</a>
 47. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176963/solution_groups?language=javascript">추억 점수</a>
-48. <a href=""></a>
+48. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/138477">명예의 전당 (1)</a>
 49. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159994">카드 뭉치</a>
-50. <a href=""></a>
-51. <a href=""></a>
+50. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901">2016년</a>
+51. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a>
 52. <a href=""></a>
 53. <a href=""></a>
 54. <a href=""></a>
