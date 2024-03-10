@@ -53,9 +53,9 @@
 49. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159994">카드 뭉치</a>
 50. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901">2016년</a>
 51. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a>
-52. <a href=""></a>
-53. <a href=""></a>
-54. <a href=""></a>
+52. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a>
+53. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135808">과일 장수</a>
+54. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/136798">기사단원의 무기</a>
 55. <a href=""></a>
 56. <a href=""></a>
 57. <a href=""></a>
