@@ -56,8 +56,8 @@
 52. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a>
 53. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135808">과일 장수</a>
 54. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/136798">기사단원의 무기</a>
-55. <a href=""></a>
-56. <a href=""></a>
+55. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">소수 만들기</a>
+56. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">소수 찾기</a>
 57. <a href=""></a>
 58. <a href=""></a>
 59. <a href=""></a>
