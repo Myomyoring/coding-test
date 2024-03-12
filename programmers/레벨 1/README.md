@@ -59,7 +59,7 @@
 55. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">소수 만들기</a>
 56. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">소수 찾기</a>
 57. <a href=""></a>
-58. <a href=""></a>
+58. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">실패율</a>
 59. <a href=""></a>
 60. <a href=""></a>
 61. <a href=""></a>
