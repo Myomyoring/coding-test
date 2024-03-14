@@ -58,7 +58,7 @@
 54. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/136798">기사단원의 무기</a>
 55. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">소수 만들기</a>
 56. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">소수 찾기</a>
-57. <a href=""></a>
+57. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/161989">덧칠하기</a>
 58. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">실패율</a>
 59. <a href=""></a>
 60. <a href=""></a>
