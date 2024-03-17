@@ -60,10 +60,10 @@
 56. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921">소수 찾기</a>
 57. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/161989">덧칠하기</a>
 58. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">실패율</a>
-59. <a href=""></a>
-60. <a href=""></a>
-61. <a href=""></a>
-62. <a href=""></a>
+59. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133499">옹알이 (2)</a>
+60. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17682">[1차] 다트 게임</a>
+61. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77484">로또의 최고 순위와 최저 순위</a>
+62. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140108">문자열 나누기</a>
 63. <a href=""></a>
 64. <a href=""></a>
 65. <a href=""></a>
