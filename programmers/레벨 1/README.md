@@ -64,7 +64,7 @@
 60. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17682">[1차] 다트 게임</a>
 61. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77484">로또의 최고 순위와 최저 순위</a>
 62. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140108">문자열 나누기</a>
-63. <a href=""></a>
+63. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a>
 64. <a href=""></a>
 65. <a href=""></a>
 66. <a href=""></a>
